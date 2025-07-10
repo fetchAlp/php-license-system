@@ -443,12 +443,6 @@ composer install  # If using Composer
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## 🆘 Support
-
-- 📖 [Documentation](https://github.com/yourusername/php-license-system/wiki)
-- 🐛 [Bug Reports](https://github.com/yourusername/php-license-system/issues)
-- 💬 [Discussions](https://github.com/yourusername/php-license-system/discussions)
-- 📧 Email Support: support@yazilimciniz.com
 
 ## 🎉 Acknowledgments
 
