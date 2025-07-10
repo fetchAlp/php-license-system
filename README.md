@@ -442,11 +442,6 @@ composer install  # If using Composer
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Volkan Kurtaran**
-- 🌐 Website: [yazilimciniz.com](https://yazilimciniz.com)
-
 
 ## 🆘 Support
 
